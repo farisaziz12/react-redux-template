@@ -8,4 +8,6 @@
 - Ramda
 - RxJs
 - Routing
+- Commitlint
+- Husky
 - Proper File structure
